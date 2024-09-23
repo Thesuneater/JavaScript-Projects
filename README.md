@@ -1,2 +1,3 @@
 # JavaScript-Projects
-This is a Rock-Paper-Scissors Projects
+01- A rock-paper-scissors game project in steps files.
+
